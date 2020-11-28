@@ -1,0 +1,20 @@
+/*
+filling up database goes like here in the example
+{
+	"query1": [
+		"answer1",
+		"answer2",
+		"answer3",
+		],
+	"query2": [
+		"answer4",
+		"answer5",
+		"answer6",
+		],
+}
+*/
+{
+	"hi": [
+        "hello",
+    ],
+}
