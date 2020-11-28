@@ -26,6 +26,7 @@ Python 3.6+ is required.
 ## Usage
 Adding new queries to the database manually:
 database.json
+```
 {
     "query1": [
         "answer1",
@@ -38,9 +39,9 @@ database.json
         "answer6"
     ],
 }
-
+```
 Adding new queries to the database through Discord:
-Ask a question, if answer isn't as you expected type: .correct <expected answer>.
+Ask a question, if answer isn't as you expected type: .correct expected_answer.
 
 ## Author
 The author of this project is Jakub Rudnik.
