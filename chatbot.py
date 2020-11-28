@@ -1,5 +1,4 @@
 import discord
-import Levenshtein
 import json
 import random
 import asyncio
