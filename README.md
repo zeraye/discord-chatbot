@@ -42,6 +42,3 @@ database.json
 ```
 Adding new queries to the database through Discord:
 Ask a question, if answer isn't as you expected type: .correct expected_answer.
-
-## Author
-The author of this project is Jakub Rudnik.
